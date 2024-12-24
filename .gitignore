@@ -2,7 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+_test.txt
+_train.txt
+test_sessions.csv
+train_sessions.csv
+copy_paste.ipynb
+.venv
+catboost_info
 # C extensions
 *.so
 
